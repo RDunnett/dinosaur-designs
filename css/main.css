@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #f2f1ed;
   font-family: Georgia, serif;
-  line-height: 1.5;
+  line-height: 1.25;
 }
 
 *, *::before, *::after {
@@ -46,5 +46,5 @@ nav a:hover {
 }
 
 .intro {
-  font-size: .75rem;
+  font-size: 1rem;
 }
